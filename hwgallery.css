@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+div{
+    width: 24%;
+    height: 540px;
+    float: left;
+    border: 5px solid black;
+    color: white;
+    background-color: grey;
+    text-align: center;
+    
+}
+img{
+    width: 60%;
+    height: 300px;
+    border: 2px black solid;
+}
+h3{
+    background-color: darkgray;
+}
+p{
+    text-align: justify;
+    padding-left: 2%;
+    padding-right: 2%;
+}
